@@ -2,13 +2,7 @@
 
 module.exports = {
         google: {
-            clientID: '616581710231-3gh4r5mnbeadi0r9h1gbvk844kbir61o.apps.googleusercontent.com',
-            clientSecret: 'y3kKg0rZlk3WhE5u-A5aHwsD'
+            clientID: '227083110199-0td31td6f0cnef0vs5ihmlo6jd7v7h7n.apps.googleusercontent.com',
+            clientSecret: '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'
         },
-        mongodb: {
-            dbURI: 'mongodb://iamshaunjp:test@ds151024.mlab.com:51024/oauth-test'
-        },
-        session: {
-            cookieKey: 'thenetninjaisawesomeiguess'
-        }
 };
